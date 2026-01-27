@@ -10,8 +10,8 @@ This project is a simple Snake game written in C++. The goal is to practice obje
 - Main Driver: Game loop and input handling
 
 ## Folder Structure
-| src/
-|- main.cpp
-|- Snake.h / Snake.cpp
-|- Food.h / Food.cpp
-|- GameBoard.h / GameBoard.cpp
+src/
+main.cpp
+Snake.h / Snake.cpp
+Food.h / Food.cpp
+GameBoard.h / GameBoard.cpp
